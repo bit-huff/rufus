@@ -25,6 +25,7 @@ Features
 * Create [Windows To Go](https://en.wikipedia.org/wiki/Windows_To_Go) drives
 * Create VHD/DD, VHDX and FFU images of an existing drive
 * Create persistent Linux partitions
+* Create a reliable bootable pendrive
 * Compute MD5, SHA-1, SHA-256 and SHA-512 checksums of the selected image
 * Perform runtime validation of UEFI bootable media
 * Improve Windows installation experience by automatically setting up OOBE parameters (local account, privacy options, etc.)
